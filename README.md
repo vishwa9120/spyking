@@ -110,7 +110,7 @@ This script is intended **solely for educational purposes**, such as:
 
 ## 🧠 Author
 
-* **Your Name** – [@yourgithub](https://github.com/yourgithub)
+* **Your Name** – [@vishwa9120](https://github.com/yourgithub)
 
 ---
 
